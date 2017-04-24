@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.5.14)  24 APR 2017 21:42
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.5.14)  24 APR 2017 21:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -237,7 +237,7 @@ Missing character: There is no “ in font ptmr7t!
 Here is how much of TeX's memory you used:
  2311 strings out of 495028
  31885 string characters out of 6181497
- 104512 words of memory out of 5000000
+ 103512 words of memory out of 5000000
  5480 multiletter control sequences out of 15000+600000
  17090 words of font info for 36 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -248,7 +248,7 @@ Here is how much of TeX's memory you used:
 ve/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/f
 onts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/
 times/utmri8a.pfb>
-Output written on resume.pdf (3 pages, 83886 bytes).
+Output written on resume.pdf (3 pages, 84185 bytes).
 PDF statistics:
  39 PDF objects out of 1000 (max. 8388607)
  26 compressed objects within 1 object stream
