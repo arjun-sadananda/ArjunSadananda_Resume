@@ -1,0 +1,53 @@
+\documentclass[letterpaper,12pt]{article}
+\pagestyle{empty}
+\raggedbottom
+\raggedright
+
+\usepackage[svgnames]{xcolor}	% For Defining Color
+\usepackage{framed}		% For custom Section Heading
+\usepackage{times}		% For Handling Title Font Size etc. 
+\usepackage{graphicx}		% For includegraphics
+\usepackage{multirow} 		% For title table
+
+\title{ArjunSadananda-Resume}
+
+%----------------------Margin setup-------------------------%
+% Defining Paper Dimensions
+\setlength{\paperheight}{11in}
+\setlength{\paperwidth}{8.5in}
+% Defining Text Space
+\setlength{\textheight}{10.5in}
+\setlength{\textwidth}{7in}
+% Defining Text Margins
+\setlength{\topmargin}{-1.1in}
+\setlength{\evensidemargin}{-0.25in}
+\setlength{\oddsidemargin}{-0.25in}
+% Width of border outside of title bars
+\newlength{\borderthickness}
+\setlength{\borderthickness}{3pt} 
+
+%--------------------Define Colors--------------------------%
+\definecolor{bgColor}{gray}{0.98}	% Page Background Color
+\pagecolor{bgColor}
+
+\definecolor{shadecolor}{gray}{0.75}	% Used by \framebox
+\definecolor{section_bg}{gray}{0.93}	% Used by \fcolorbox
+
+\begin{document}
+
+	% Insert Picture and Title
+	\begin{tabular}{p{2.2in} p{4.5in}}
+  		\multirow{4}{*}{\includegraphics[scale=0.3]{photo}}\\
+  	
+		& \textsf{\textsc{\fontsize{37}{10} \selectfont Arjun Sadananda}}\\ % Small Caps
+		& \\  		
+		& National Institute of Technology Karnataka, Surathkal  \\
+		& Manglore-575025 \\
+		& Karnataka\\
+  		& Email  : arjun.sadananda@gmail.com \\
+		& Contact: +91 9980402770
+		
+	\end{tabular}
+	\vspace{0in}
+	
+\end{document}
