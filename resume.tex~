@@ -180,6 +180,10 @@
 		 Python		& * * * * * - - - - - \\
 	\end{tabular}
 
-	
+	% Research Publication
+	\sectionheading{Research Publications}
+	\begin{enumerate}[(i)]
+		\item Hopefully, Coming Soon...
+	\end{enumerate}	
 	
 \end{document}
