@@ -8,7 +8,7 @@
 \usepackage{times}		% For Handling Title Font Size etc. 
 \usepackage{graphicx}		% For includegraphics
 \usepackage{multirow} 		% For title table
-
+\usepackage{enumerate}		% For Enumeration
 \title{ArjunSadananda-Resume}
 
 %----------------------Margin setup-------------------------%
