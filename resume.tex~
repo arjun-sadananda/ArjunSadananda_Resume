@@ -33,6 +33,26 @@
 \definecolor{shadecolor}{gray}{0.75}	% Used by \framebox
 \definecolor{section_bg}{gray}{0.93}	% Used by \fcolorbox
 
+%-------Defining Custom command: For Section Heading----------%
+\newcommand{\sectionheading}[1]{
+	\vspace{8pt}
+		\parbox{\textwidth}{\setlength{\FrameSep}{\borderthickness}
+		\begin{shaded}
+			\setlength{\fboxsep}{0pt}
+			\framebox[\textwidth][l]
+				{\setlength{\fboxsep}{4pt}
+					\fcolorbox{section_bg}{section_bg}	{\textup
+											{\rmfamily
+												{\mbox{~}\makebox[6.65in][l]
+													{\LARGE #1} \vphantom{p\^{E}}
+												}
+											}
+										}
+				}
+		\end{shaded}
+		}
+	}
+
 \begin{document}
 
 	% Insert Picture and Title
