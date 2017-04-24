@@ -100,7 +100,7 @@
 	\begin{enumerate}[I]
 		\item eYantra Robotics Competition- IIT Bombay: Third Position -March 2017\\
 			- Focus on Path Planning, PID Control on Differential Drive robot- FireBird and Image Processing\\
-			- Found, Out-of-the-box solutions to problems like parallax error in robot position 
+			- Found, Out-of-the-Box solutions to problems like parallax error in robot position 
 			estimation using camera, Mechanical Design of robotic Arm/Grabber, 
 		\item Automata: Winning Team Leader and lead programmer -October 2016\\
 			Image Processing(Over-Head Camera) and PID Control based robotics
@@ -131,13 +131,13 @@
 	% Technical Skills
 	\sectionheading{Technical Skills}
 	\begin{tabular}{ p{2in} p{2in}}
-		OpenCV			& * * * * * * - - - - \\
-		Matlab/ Octave		& * * * * * - - - - - \\
-		Arduino, Raspberry Pi	& * * * * * * * - - - \\
-		Android Studio		& * * * * * - - - - - \\
-		Embedded C		& * * * * * - - - - - \\
-		CATIA			& * * * * * * - - - - \\
-		PLC (Ladder Logic)	& * * * * * - - - - - \\
+		\quad $\diamond$ \quad OpenCV			& * * * * * * - - - - \\
+		\quad $\diamond$ \quad Matlab/ Octave		& * * * * * - - - - - \\
+		\quad $\diamond$ \quad Arduino, Raspberry Pi	& * * * * * * * - - - \\
+		\quad $\diamond$ \quad Android Studio		& * * * * * - - - - - \\
+		\quad $\diamond$ \quad Embedded C		& * * * * * - - - - - \\
+		\quad $\diamond$ \quad CATIA			& * * * * * * - - - - \\
+		\quad $\diamond$ \quad PLC (Ladder Logic)	& * * * * * - - - - - \\
 	\end{tabular}
 
 	% Soft Skills
@@ -189,27 +189,28 @@
 	% Personal Information
 	\sectionheading{Personal Information}
 	\renewcommand{\labelitemi}{$ $}
-	\begin{itemize}
-		\item Father’s Name:    Sadananda Adyanthaya\\
-		\item Mother's Name:    Anita Sadananda\\
-		\item Sex:              Male\\
-		\item Date of Birth:    12 May 1997\\
-		\item Nationality:      Indian
-	\end{itemize}
+	Father’s Name:    Sadananda Adyanthaya\\
+	Mother's Name:    Anita Sadananda\\
+	Sex:              Male\\
+	Date of Birth:    12 May 1997\\
+	Nationality:      Indian
 	
 	% References
 	\sectionheading{Reference}
-	Gangadharan K V, \\
-	Professor and Ex-HoD Department of Mechanical Engineering, \\
-	Centre for System Design Founder
-	Email:  kvganga@nitk.ac.in
-		kvganga@nitk.edu.in
+	Dr. K V Gangadharan, \\
+	Centre for System Design Founder\\
+	Professor. Department of Mechanical Engineering, NITK Surathkal \\
+	Mangalore 575025, Karnataka, India\\
+	Email:  kvganga@nitk.ac.in\\
+	Phone : 91-9448478752\\
+	Fax 91-824- 2474033
 
 	% Declaration
 	\sectionheading{Declaration}
 	I hereby declare that all the information furnished above is true and genuine to the best of my knowledge
 	
 	% Date
+	\vspace{.1in}
 	\hfill  {\textbf{Date:} 24th April 2017}
 	
 \end{document}
