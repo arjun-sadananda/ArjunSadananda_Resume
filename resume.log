@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.5.14)  24 APR 2017 20:59
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.5.14)  24 APR 2017 21:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -95,19 +95,19 @@ Package graphics Info: Driver file: pdftex.def on input line 91.
  (./resume.aux)
 \openout1 = `resume.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 36.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 56.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
@@ -174,45 +174,42 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 39.
+(Font)              <12> on input line 59.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 39.
+(Font)              <8> on input line 59.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 39.
+(Font)              <6> on input line 59.
 Package epstopdf Info: Source file: <photo.eps>
 (epstopdf)                    date: 2017-04-19 01:20:06
 (epstopdf)                    size: 179859 bytes
 (epstopdf)             Output file: <photo-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-04-24 20:59:32
+(epstopdf)                    size: 30932 bytes
 (epstopdf)             Command: <repstopdf --outfile=photo-eps-converted-to.pdf
  photo.eps>
-(epstopdf)             \includegraphics on input line 40.
-runsystem(repstopdf --outfile=photo-eps-converted-to.pdf photo.eps)...executed 
-safely (allowed).
-
-Package epstopdf Info: Result file: <photo-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-04-24 20:59:32
-(epstopdf)                    size: 30932 bytes.
+(epstopdf)             \includegraphics on input line 60.
+Package epstopdf Info: Output file is already uptodate.
 
 <photo-eps-converted-to.pdf, id=1, 452.69125pt x 452.69125pt>
 File: photo-eps-converted-to.pdf Graphic file (type pdf)
 
 <use photo-eps-converted-to.pdf>
-Package pdftex.def Info: photo-eps-converted-to.pdf used on input line 40.
+Package pdftex.def Info: photo-eps-converted-to.pdf used on input line 60.
 (pdftex.def)             Requested size: 135.80841pt x 135.80841pt.
 
-Overfull \vbox (82.15851pt too high) detected at line 40
+Overfull \vbox (82.15851pt too high) detected at line 60
  []
 
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 42.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 62.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
-Overfull \hbox (1.18663pt too wide) in paragraph at lines 42--43
+Overfull \hbox (1.18663pt too wide) in paragraph at lines 62--63
 [] \OT1/phv/m/sc/37 Ar-jun Sadananda| 
  []
 
 
-Overfull \hbox (2.31877pt too wide) in paragraph at lines 39--52
+Overfull \hbox (2.31877pt too wide) in paragraph at lines 59--72
 [][] 
  []
 
@@ -221,17 +218,17 @@ Overfull \hbox (2.31877pt too wide) in paragraph at lines 39--52
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./photo-eps-converted-to.p
 df>] (./resume.aux) ) 
 Here is how much of TeX's memory you used:
- 2280 strings out of 495028
- 31452 string characters out of 6181497
- 96999 words of memory out of 5000000
- 5457 multiletter control sequences out of 15000+600000
- 12195 words of font info for 30 fonts, out of 8000000 for 9000
+ 2284 strings out of 495028
+ 31497 string characters out of 6181497
+ 98144 words of memory out of 5000000
+ 5460 multiletter control sequences out of 15000+600000
+ 13780 words of font info for 32 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  37i,14n,35p,246b,261s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc
 }</usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on resume.pdf (1 page, 47346 bytes).
+Output written on resume.pdf (1 page, 49124 bytes).
 PDF statistics:
  21 PDF objects out of 1000 (max. 8388607)
  13 compressed objects within 1 object stream

@@ -50,4 +50,12 @@
 	\end{tabular}
 	\vspace{0in}
 	
+	% Career Objective
+	\sectionheading{Career Objective}
+	\begin{center}
+		My career goal is to design and program robots for a better future.\\
+		My interest lies in Computer Vision, Motion Planning, Control Systems, \\ 
+		Mechanical design CAD|CAM and everthing robotics.
+	\end{center}
+	
 \end{document}
